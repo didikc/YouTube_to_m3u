@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233248/ei/AFOvZLTsJqqCsfIPocmvwAY/ip/13.86.226.81/id/mDjMCzT-o78.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAsqK2RmcLS1o5k3dsJDAiRmoEbMQ0litNBQkbqv5rreZDJonjcSem7kmsRs8k9WiMvPH95O3U6BdPHKUBQD4DKqggWd/spc/Ul2Sq7wWqOEDuwTZ5ePVKBI4x-EoxuKM-guu4ZDxbQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANZaTlVpSmjOoyYuCLk9_sRmJU35xfnOqLjitSfwBksTAiACJs-28J9wMG4l9N3EZBDJQxKM_pVlIrgCIMUaRWOTvQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240342/ei/tm6vZKCiA-6B_tcPjMW7iAY/ip/40.83.3.209/id/mDjMCzT-o78.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq8L5srI6ZE0QJOAk0OJTkDXqjf9H8Oa358LkYw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAInfqF4ZTuZPr8hOeco2N0m_JXkhxLEVfoeNsPGlTH5bAiEAx0aeabjGsCe-qKxrD68o9Y5C9nk7NKSY_9t0b0hLSX8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Lion Family1
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -24,7 +24,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Masha and the Bear2
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240344/ei/uG6vZI_RJcWxlu8P_aylkAQ/ip/40.83.3.209/id/7lvosF5jhoE.1/source/yt_live_broadcast/requiressl/yes/tx/24360282/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-il0cUnF5vmPUw8ZHdLf258TBDwjH6LJsQcNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLDx9aFViQfghd9RyeS-6anWnQ8-gZzT20knI76JWAL4CIQDP_p-pJ1FkVsvGlJHG8ygI53h9HvszV7ykoh9fpTVyXA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Wolfoo's stories
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -42,7 +42,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Hogi! Pinkfong - Learn & Play
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233254/ei/BlOvZLunHc22sfIP7cesyAc/ip/13.86.226.81/id/JM7zMJN1LTE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-UOwcU1MdTXP1VioHbijaPk8-Dyb8GWCVUsJA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000013%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKndxX-S3tRSPq82gs11QtyHZsH0PNSvTl-BauHGlPq5AiEAzStjEIoUoCo-QQpO5m7hhgxedRW5frB4NmyfJgqeLog%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240348/ei/u26vZLuDO9mVlu8Po-a-0As/ip/40.83.3.209/id/JM7zMJN1LTE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sqypqz4krMrspDp_tcEkRCnbg-so-SdcPWEXIsQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOYYeXQ7HMkUo4ky4JklGx5ITcSb1R-yj_kXQHf6c2KtAiANnmZRKG2RE1i7u238cGhbaDUra6d79N-bONMpOqZx0A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Antiks Cartoons
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -54,7 +54,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Baby Shark Doo Doo Doo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233256/ei/CFOvZLTgIpetlu8PxOGk0Ak/ip/13.86.226.81/id/NXJZ9SxkqSk.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq6gX2BTMOlRAHSoDsfHy5ZWLQ41sVOfKot4xaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000012%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXC3aiz3BQbSgL-A9nfM161oD6I0NwEjSfUricZ8bq-ICIDS-QoUc2mO60kGlNr4Ls7z-I9cvu6EeUZSXgimY5xJi/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240350/ei/vm6vZJr0GqqV2_gP6L264Ag/ip/40.83.3.209/id/NXJZ9SxkqSk.3/source/yt_live_broadcast/requiressl/yes/tx/24360280/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq4fW4sPckLbyeRmnVjIUem6OiSCCacpu90RaQg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000014%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgT5GTtdgx0Rwqj3nXIFrjamEZ2O17p2EhsplrSFLa5pYCIAbUoevbKVv3FbuRluqXKpk5xchvhV13zh5Hh26wYrID/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Talking Tom Heroes Adventures
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -72,7 +72,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233260/ei/DFOvZKmyCOq3sfIP562_uAI/ip/13.86.226.81/id/JVocS7Yftw8.1/source/yt_live_broadcast/requiressl/yes/tx/24360281/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sqy238P4t2iKw4b62nY0vT_6PHrQ9kt3cZ46gKA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24362687%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMwYEueQukEkx5TuE-ndW3O2oS3cs2TLIoXadRoDGcxMAiEApAxjCAXJsZKC9OsXjrHzSN9sG1j6Cqi8JsijJbLXSTg%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240354/ei/wm6vZILtGfyX2_gPovyA0As/ip/40.83.3.209/id/JVocS7Yftw8.1/source/yt_live_broadcast/requiressl/yes/tx/24698586/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAsyrKwk7W3O42pDWfALq7CKNwQx_bdy962t4mdjEaMAzwHNKjZs-dfbiVUufthDY3SaVI9YAJOYkLtUc9yniKwMNhCd/spc/Ul2Sq8Nnfhhqs7TXH0kCdVWDfFEb15fUTegFpEQ1qw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C51000023/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALmZUNZEVnWPJrhjyXC--1wz-i6tZOXPuCcY15BVBMoLAiBtBcQDyT5zN47O2C8aXtttkZESrDsKf_1RTbLsqNOx1Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP2
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -96,31 +96,31 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Space Videos
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233265/ei/EFOvZK7dO8-X6QLD7rGgBg/ip/13.86.226.81/id/_HGQZlK08gQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqyIXrj_62Oub9rBTXmpThQspnJ4CnEm_vGZyfA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24362686/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBK64_fxvT2x4Yg443S4dPPjG8IcXtA8lW_HyOpWhVOMCIQDbUWaWfA6oz9k7ZxVYgkudaozNFIMN4t750u2odt4zaw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240359/ei/x26vZJqVK82glu8Pr56YmAc/ip/40.83.3.209/id/_HGQZlK08gQ.1/source/yt_live_broadcast/requiressl/yes/tx/24360280/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqwpR-D4pX8D0vUjr0LnB_KWYzzALEcajy_6krQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000012%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGXhq0yoAqNqhVi_TBlmGn2G1aKwem-aFmfK6RZ_lbzUCIQCvjRRk7SATxDmpEinc5nEsKVt2-Lv5eQkgimSGHKdxgw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailWay
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailCowGirl
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233266/ei/EVOvZOrgN-7BsfIPjZaBqAo/ip/13.86.226.81/id/g7CJ3pm-e7s.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-Fs3DsAt9gI4hBaYjU4i9kUOBxP9Z9iNjsWVg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPqYxwXxJm8mvhwQb7ZNVztnHPI3Imft-624JoV5aXYTAiEAhB2uosgAlejJzCZY5IV25DmAb-ZL0NKc6gtdrNyAP2w%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240360/ei/yG6vZOnrNMnpir4PzuqJoA8/ip/40.83.3.209/id/g7CJ3pm-e7s.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAu7QPKc1-GfmPkEwlWr428-frSuV5ovQq-bPJAjn79D5zVyuzdZrReu1-KWfk4xcf-nOdPBwhCiGuCssglq4kMAS3G6/spc/Ul2Sq9efmCQ-QOgzxu5kEG9d3FG0ySS_60I20f8Reg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWMGhFgPo2R-G1HvIJrM0ygp0nvXvqT22xWHg-ccAItECIE2NkQplzmoYBsdIqArcYXKryfimThG3W84CACRQhVqW/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Virtual Railfan
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", JAPAN 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233267/ei/E1OvZL0DkK6x8g_ir7aYDQ/ip/13.86.226.81/id/cH7VBI4QQzA.2/source/yt_live_broadcast/requiressl/yes/tx/24489374/txs/24489374%2C24489375%2C24489376%2C24489377%2C24489378/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq39LezUVXUqCzSm6Z5qEqW5V8-81Kusk1hdHGg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000022/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIvKFlveJYn8YnbLgWqecmEc4IU2eMkAPUhlkLteFLBSAiAT7qrFFPY2f8tSp38_shs7ctE1l_9oBkYj60BvJZl4QQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240362/ei/ym6vZK2yBZ3Gir4Px-eCyA0/ip/40.83.3.209/id/cH7VBI4QQzA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq_S0gRoUaS3REYCh49Dq16NQ-zGGbBpU0OytgA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391%2C51000011%2C51000013/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLxz3Ba2FUEHIAM8rCW40tBitbytSDFpsOXFWKDBdpFcCIGmc1xBUAu8mb7AH8D4M5thCD2O2UGRWSpHl-NDIQMKE/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Aurora Borealis
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Kitten Academy
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233268/ei/FFOvZKueI_uGsfIPns-ukA4/ip/13.86.226.81/id/R7vrbiDi0Tc.21/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq79xW1-uzhSINyNGDDcaJP3Ehm_M_PN7pwZo1g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLNcx9UESfOLpyvjDZJozbxIb4tpR6u-ix73heFO-XtoCIC1NGLFtQyPmLsT-xNiV8lMhZ-yluDUpD-a9bZDu_cxm/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240363/ei/y26vZLuWH-iqlu8PkpmOkA8/ip/40.83.3.209/id/R7vrbiDi0Tc.21/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAsoodmExkOFqw6oFO2PVNrrdIcROgaKBF5k8zSE6wc_03RPCtrB4uPwYsAaVDziqgiPKBDhCT_1C7MwVqn59V53qWAt/spc/Ul2Sq-7tPq87lZAi296ppW2Ykk8R7RAoHqBPUoACvw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000013%2C51000023/beids/24472436/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZg4aPjO1CtH3StrWi89YJta8udUpJy7OATxXhRVywAQCIQC1O6xP-pPI3F1wDlpTqI2MEojMrKRwOr3IoL-QJ61btw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Explore Bears & Bison
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Kansas City Zoo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233269/ei/FVOvZKS9J_C_sfIP0eGlkAo/ip/13.86.226.81/id/BSUnBPvX9K4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq4G6NBi1bM48vIuaISZc54f2RMynqByzhpiuHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO4Ip2nn--tE6Tnh4ROVtGvRyvWt5HtCYlHZHoJEZ7OnAiBb2hacQvXVBwqZ4-A121ajAaJtMwu46TY1b9dS0JD94A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240364/ei/zG6vZLLxKYPB6QKPtYKwCw/ip/40.83.3.209/id/BSUnBPvX9K4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sqx12v78KnAPi-yhrBQrskbzjEjyZlqcsWp98Ug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHTOzV6G8XdJPySDotwNaSHHLvNNeRukSparafYtLckMCIFoqbjb8WcpmULzJB_SkZbFXOfHSgmTaBlYgX2p_o-GU/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", FOBBV CAM
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -129,10 +129,10 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", eqm
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233271/ei/F1OvZKC2BL23sfIP0eOgiAI/ip/13.86.226.81/id/Owke6Quk7T0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/Ul2Sqxj_es3TvOLsh3F7itCsgLo6n0r8SOGf0DnvRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOvjm2mSPlRdX7MfDFc2PwT6DJQB8dRJdXEUUIP0NtZYAiEAlbQXjEIMPe2dRgFmMJdUxkyqGkWLsWQeZKztAU1ZCEg%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240366/ei/zm6vZNu3FsWl6QKJiZ7wCA/ip/40.83.3.209/id/Owke6Quk7T0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/Ul2Sq1cklFhFIe2uTPUajXBOG6nzIg7NgXXOTn0p3A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKfcri-QKE8CS1-tayK7DKLcS-tE4AUOk_zbMLhhYdAWAiAR9KkkszZzXBnEGRWLkW_CXFI7hEtubr5hEDEDVVRdow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", CTS DRAMA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233271/ei/F1OvZNbtH47ikgaR-pK4Cw/ip/13.86.226.81/id/BwqABw8CAJ8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-kK48i65uccNXJDlhHU13sS1WwkQW_13rRRMg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgf2cQhiClDVCm17wnn7V7hpfjdHPr9Y1d0S2VbuueRMICIQCNbLf2PuodJzKlOjin3UFaMPx8aKbWcxetBAKF_mTv7Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240367/ei/zm6vZITePJKE6QLNmLPAAw/ip/40.83.3.209/id/BwqABw8CAJ8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq1ttFppNIntkSEvaMX5asXQmnxS-3PuKrr8-Hg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000012/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJAEHTv701cbDSqanePJp5Y1aRU0B3h6wyJBa24QofHDAiAF8Gc0eF12rQDxSmx0qn9s7PKUPnlLuiEuScunvQu1jQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", GTV DRAMA
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -141,7 +141,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CTS SHOW
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233273/ei/GVOvZLM3y9uSBsjtm-gK/ip/13.86.226.81/id/7HgSBXpHfbA.1/source/yt_live_broadcast/requiressl/yes/tx/24489375/txs/24489374%2C24489375%2C24489376%2C24489377%2C24489378/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq8oa8Kp__f-MGGnm2kK_O6tRXbhlaGnKaUvTYA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXmUQfR0rXq6mIqQZXioXQhBVqorMxR0KXhk9HCWzv6YCIQCgPPcCRO-QYOh8gyiETHepMsv8KMJnCFg6rwhA1KXfjg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240368/ei/0G6vZN-YNoXHjQTIg6HgAg/ip/40.83.3.209/id/7HgSBXpHfbA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq62NIA-ma8vVFd3pVplk_VKP2mr30Dwkw8L0LA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMPMa-MnBraXtMBfPz3xZ2WmNv07jwtoKuijXE8DsTqpAiEA34c6gyHNT_5mkNsdd3xqHbHJrIV4VRSHoWxNvDdmPjI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CtiEntertainment
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -150,7 +150,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Faintv VARIETY2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233274/ei/GlOvZLjVJIC-sfIP8M6KuAU/ip/13.86.226.81/id/pyPBOsAmUeo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq5Hsp7uyAueB9YYKGKAVELSh52SQbvMQD1G2ZA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqnj4x3UwtPyCMEqYpJhcTYiI3e9cAMJRKfG7N-EBhkAiBQnFKDMlC8ETLf-mkXF6bWxylcI4NfeO2MnRCjC-aGLA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240370/ei/0m6vZPCnLYaxlu8PuMyhuAI/ip/40.83.3.209/id/pyPBOsAmUeo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq60frSYYTxORnGnJLY6-6sRVJ7oEU4-Ya227cQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393%2C51000014/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgchZ5aEVepGqT8B1jcOXmQyMARVV4KPz1vfQhQmqqbYICIHEwzNfBBoyDXe_fLYdH28JtvBHlOCeIAcCM9oLCiEYh/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Mr.Player
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -171,13 +171,13 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", mnews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233278/ei/HlOvZImHIsnWkgbeoY2IAQ/ip/13.86.226.81/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq09k4SMXkdBPCgRjImwGtEG5as1vv0si7HIEZg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANB9xrzKH-uqz_eBNiXJvin74PRUbdqucgAlSCQ4hcJRAiEA3u-6lnQwynyx6AwAMfijekKjhIAuU4jVkQQcfPHoPBU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240375/ei/126vZLesC_Ol_tcPidaBiA8/ip/40.83.3.209/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/tx/24698588/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq-EmQty2wHANMKDa9D1m6PdhvqtNoaU23XrEXw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYnNpZyF-u2swaX6mx-jungUZwpAs-p_xNXOra0ONnGACIQDdCVyulw0Z2FyrbQ1-0t34rnvy7wRZS6DbxAT9zFMlPQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TTV News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233279/ei/H1OvZNDILsWBkgb19LigCw/ip/13.86.226.81/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq38MFlvwy41UESmz0iVNqjMhAD8XqmvKNwX7Uw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKJ2_bBogK1RUXOLcbYc7AO-EM2ZeloOTcE4IgHey0RPAiB1yYgL7FQpxyZGBu0c4Zvwk9uJYmoVOFVsy3xq29CI8g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240376/ei/2G6vZN2wHvGflu8Pub-GwAs/ip/40.83.3.209/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/tx/24360282/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq_6aLYN5nyyHL6TdVfUUUqu02cQKX41A5L7adA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKoiyEAjROPOQ9ul2bbze3sa04vNXZOo4t2zLNDVwCsTAiBvu5mXren0ml9UI0zqp3jo5wbF3qNTzfZixvcb1ksZ5A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Tzu Chi DaAiVideo
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -189,7 +189,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET iNEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689233282/ei/IlOvZOL1COq3sfIP562_uAI/ip/13.86.226.81/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq0OIi8-oly_qNQV3eqyq1IMNLVmL1GUYttMQCw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJuU5XeWRPHXtqlyTl8DA3EZCtxQaFYZtEmU_p9F0b9IAiEAqqgRU4einW0gjmVcwuVolqcbnnsmnpM-wfUum-FpJLc%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689240379/ei/2m6vZIqJOK-ylu8PqrKwuAs/ip/40.83.3.209/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/tx/24360281/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYlvQAssCAn9GgefB_L4A0d9XQx9QUkALKnSQaLPavnFnvALnsuZq2037S53TaKIT_RJQ5QdODs6c5M9Iot6b8WMfoXXtJAw/spc/Ul2Sq_tvzyW2WId-i1SDMnJaisajWS9MCEi27_MNPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPi5uVIzMpMm_hZANbCM9Twg9Qt59ajJoxy9fbgNjK36AiEAmS7ZfCt0j_HFqGNh9tuS_Nm10il5_YZDdEo5mBw8IzU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", FTVN Live
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
