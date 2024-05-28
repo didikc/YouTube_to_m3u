@@ -12,55 +12,55 @@
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Disney Junior
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898073/ei/uXRVZoS2HKvAsfIPyv6y-Ag/ip/52.234.38.242/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBTyxY6JdVUCxOVf-lRRVIT9Zzy62GBnRmzaZsM86DdcCIApdj5EHlihnAGxbQcb2PYpzFtIAfb_XwUTZZaaZIKMB/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Mickey Vlogs
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898074/ei/unRVZvavB7qqsfIP8vSa6A4/ip/52.234.38.242/id/0L6EvgWotfI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177561/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMFLiukZgkABFRFCybtz47hbPqeeqpzR9gRCuIpSo2xKAiBUjD19DFvlExDXva8Q8AxR68RrPCp0B4MGXmRyyWQAHA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Disneyjunior.yt" tvg-id="", Disney Junior
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898074/ei/unRVZuulM8yqsfIP1eGuuAw/ip/52.234.38.242/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177565/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKN5JYs4Bgz3OxLp-I0UzOqfuQZmksb7deWi8lsS2x7hAiAMKBe--61HQaX8j9DO1_AIZVMvH7XjN7Yo5TWDbzyTBA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Superheroes.yt" tvg-id="", Super Heroes
 https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="Winniethepooh.yt" tvg-id="", Winnie The Pooh
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898075/ei/u3RVZsboN-eqsfIP-_2fgAM/ip/52.234.38.242/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANGzkBw7r9km0p6HagjV_J32MauSMZvqc6vVoYpuwnpQAiEA4KH5-Hyw9ed6BC4STWkUSBlsVOEXF2nEg_BgFCt_n0g%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Spidey.yt" tvg-id="", Spidey
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898076/ei/vHRVZqTKGf_7sfIPyp2JmA8/ip/52.234.38.242/id/DulkvDhBx08.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177562/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f-Ciz-JUC7RqUa65e8Pw6GNd47LoG5qxTOjB02KYuBpyPbeDvD7292kIynA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfGUBnUvX22ng7a21dMZ0KfjN6GU8cGHbFLTiFKRFE1kCIQCqf-0SG-1z8i0zLte214nRSmJ21Fh7rF31nW57t8IYdQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Bluey.yt" tvg-id="", Bluey
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898077/ei/vHRVZpSGO42wsfIPv5OygAk/ip/52.234.38.242/id/x7I9aLJ4hKo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANq1ewXaAPyyB128UFnxYndC4f1Xw2ggSieplUkilXmbAiBKsaBZGsm60e_ohiBtopWFDY6TNl7J9UgPCe-kLackEQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Mickeyvlogs.yt" tvg-id="", Mickey Vlogs
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898077/ei/vXRVZqr8KITXsfIPltyEgAg/ip/52.234.38.242/id/0L6EvgWotfI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5RngzhM8F5vQetEyxFAAlGMNL0vDsvZg2uNSll3c_KoWDq5QKk9wt_1GxI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVkooRNqbeHVVpNka454XUqvwsLnqVM-muEklNcq7yWECIFeRTd6hc1miGAGCl3sJ-sxIDdDIBL0PIW68PVDLMiLj/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Minniebowtoons.yt" tvg-id="", Minnie Bow Toons
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898078/ei/vnRVZu7ME-DbsfIP4eWH2A4/ip/52.234.38.242/id/OjlaUkllTss.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0RE8atXVE3VChsXpF8Rmi0kpR-gxzrHXPtRr-UiudSySCX2Mv64imOSSE0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIbwMBIs108kuBeq-3OgtfTh2jKU7JRkwsFpm2TPDU0PAiABPkaCEMswZ1_GZliTxa7IHjk2oKwDVQN2O9toj3aCRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Mickeymouseclubhouse.yt" tvg-id="", Mickey Mouse Clubhouse
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898079/ei/v3RVZu2XAZjvsfIPqL2poA8/ip/52.234.38.242/id/Dkkp4KfdGPY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI6O2CrnFB3-AMhBM1KIQyqNok1BKu-lO23pIHs0lHl3AiAnugUugWZSzOCtgG6q2Q8t_se-p5koZANJ0LMHfa6yqw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="KompasTV.yt" tvg-id="", Kompas TV
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898079/ei/v3RVZpmhLq22sfIP2aeb2Aw/ip/52.234.38.242/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNr3TVfDRNVta2fpunkjoaE-ro-huPjHsA8TcP2FM-VcCIQCj2j9f8ZAqNk2pp_04xrOa4RUPKRJ7bgNpMIEJb8zX3g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="TVOne.yt" tvg-id="", TV One
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898080/ei/wHRVZv6GGpH1sfIP7ImNsAw/ip/52.234.38.242/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLrPdrLIhuI4CjPFN0yCmur9F3vqK25VMmQ8PCIE0yyICIEQ8ElarEHMv1JH29vtrNHKg4ginK59rvI1sUJmh-PKe/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="iNews.yt" tvg-id="", iNews
 https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="MetroTV.yt" tvg-id="", Metro TV
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898082/ei/wnRVZpnHFZe6sfIPuZ2BgAk/ip/52.234.38.242/id/XKueVSGTk2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPZsvM-ygjFYILeY_59atyf0XV8S9LidGzBaU_NLltILAiEAmlX0OwtjGgBa9zf7niPID06pWJlrCxOFHH1hr-SfBtU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="NetTV.yt" tvg-id="", Net TV
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898083/ei/w3RVZuvUDuuCsfIPlZW6mAg/ip/52.234.38.242/id/Vur6WLoMUwE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaLJpc6Vjue1WG1JzqU5Adz2qmEKQOmIL2rZXq1nGDpQCIGNY4R5I4Wi47OEY5HqZfwzbZxv4qoz3HggzJ2oS_xTB/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="Liputan6.yt" tvg-id="", Liputan 6
 https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="QuranTV.yt" tvg-id="", Quran TV
-https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716898085/ei/xXRVZq2oDp-osfIPzOyEqAg/ip/52.234.38.242/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ9wAmsv_QQcMWKlWpX3GloQOIp-3eL_SRXlA_xoOlH0AiEA8sbG_ZMRzdPo5r5NbMD43OjICxXCzm7jzDu6wVXhwvo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="SunnahTV.yt" tvg-id="", Sunnah TV
 https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/assets/moose_na.m3u
